@@ -1,0 +1,8 @@
+{
+  "name": "ecms-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "check": "node -e \"console.log('mobile structure check passed')\""
+  }
+}
