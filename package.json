@@ -1,0 +1,8 @@
+{
+  "name": "ecms-monorepo",
+  "private": true,
+  "workspaces": ["backend", "mobile", "shared"],
+  "scripts": {
+    "check": "npm run -w backend check && npm run -w mobile check"
+  }
+}
